@@ -1,0 +1,388 @@
+{
+  "correlation_id": "cam_f57e3e42",
+  "campaign_name": "Coca Cola Japan Spring Festival 2025",
+  "processing_status": "completed_successfully",
+  "start_time": "2025-09-25 15:05:54",
+  "assets": {
+    "Coca Cola": {
+      "square": {
+        "path": "assets\\output\\Coca_Cola_square_final.png",
+        "status": "success",
+        "aspect_ratio": "1:1"
+      },
+      "story": {
+        "path": "assets\\output\\Coca_Cola_story_final.png",
+        "status": "success",
+        "aspect_ratio": "9:16"
+      },
+      "landscape": {
+        "path": "assets\\output\\Coca_Cola_landscape_final.png",
+        "status": "success",
+        "aspect_ratio": "16:9"
+      }
+    },
+    "Coca Cola Zero": {
+      "square": {
+        "path": "assets\\output\\Coca_Cola_Zero_square_final.png",
+        "status": "success",
+        "aspect_ratio": "1:1"
+      },
+      "story": {
+        "path": "assets\\output\\Coca_Cola_Zero_story_final.png",
+        "status": "success",
+        "aspect_ratio": "9:16"
+      },
+      "landscape": {
+        "path": "assets\\output\\Coca_Cola_Zero_landscape_final.png",
+        "status": "success",
+        "aspect_ratio": "16:9"
+      }
+    }
+  },
+  "compliance_results": {
+    "Coca Cola": {
+      "square": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches square"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      },
+      "story": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches story"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      },
+      "landscape": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches landscape"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      }
+    },
+    "Coca Cola Zero": {
+      "square": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches square"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola Zero' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola Zero' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      },
+      "story": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches story"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola Zero' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola Zero' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      },
+      "landscape": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches landscape"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola Zero' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola Zero' in campaign message",
+          "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+        ]
+      }
+    }
+  },
+  "summary": {
+    "total_assets_requested": 6,
+    "assets_generated": 6,
+    "assets_failed": 0,
+    "compliance_passed": 6,
+    "compliance_failed": 0,
+    "overall_compliance_score": 89.8
+  },
+  "recommendations": [
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful",
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful",
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful",
+    "Consider mentioning 'Coca Cola Zero' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful",
+    "Consider mentioning 'Coca Cola Zero' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful",
+    "Consider mentioning 'Coca Cola Zero' in campaign message",
+    "Consider incorporating japan cultural elements: minimalist, clean, respectful"
+  ],
+  "processing_time": 107.61,
+  "strategic_recommendations": [
+    "Consider specialized cultural adaptation for Japan market requirements.",
+    "Consider A/B testing different creative variations for optimal performance."
+  ],
+  "end_time": "2025-09-25 15:07:41"
+}

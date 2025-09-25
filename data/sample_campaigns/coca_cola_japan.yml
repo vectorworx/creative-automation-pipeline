@@ -1,0 +1,40 @@
+campaign_name: "Coca Cola Japan Spring Festival 2025"
+
+products:
+  - name: "Coca Cola"
+    category: "beverage"
+    key_attributes: ["refreshing", "classic", "energizing"]
+  - name: "Coca Cola Zero"
+    category: "beverage"
+    key_attributes: ["zero sugar", "same taste", "guilt-free"]
+
+target_region: "Japan"
+target_audience: "Young professionals aged 25-35"
+campaign_message: "新しい季節、新しいエネルギー" # "New season, new energy"
+
+brand_guidelines:
+  color_palette: ["#FF0000", "#FFFFFF", "#000000"]
+  style: "minimalist with subtle Japanese aesthetic"
+  logo_required: true
+  font_preference: "clean, modern sans-serif"
+
+cultural_requirements:
+  - "Respect for seasonal themes (spring sakura season)"
+  - "Emphasis on harmony and balance"
+  - "Subtle rather than bold messaging"
+  - "Group harmony over individual achievement"
+
+legal_compliance:
+  - "No health claims"
+  - "Include mandatory beverage labeling"
+  - "Comply with Japanese advertising standards"
+
+campaign_objectives:
+  - "Increase brand awareness during spring season"
+  - "Drive trial of Coca Cola Zero among health-conscious consumers"
+  - "Strengthen emotional connection with Japanese cultural values"
+
+success_metrics:
+  - "15% increase in brand recall"
+  - "25% lift in Coca Cola Zero trial"
+  - "90%+ cultural appropriateness score"

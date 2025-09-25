@@ -1,0 +1,47 @@
+campaign_name: "Nike Europe Sustainable Performance 2025"
+
+products:
+  - name: "Nike Air Max Sustainable"
+    category: "footwear"
+    key_attributes: ["recycled materials", "performance", "eco-friendly"]
+  - name: "Nike Dri-FIT Eco Collection"
+    category: "apparel"
+    key_attributes: ["sustainable fabric", "moisture-wicking", "recyclable"]
+
+target_region: "Europe"
+target_audience: "Environmentally conscious athletes aged 22-40"
+campaign_message: "Perform Better, Impact Less"
+
+brand_guidelines:
+  color_palette: ["#000000", "#FFFFFF", "#90EE90"] # Adding green for sustainability
+  style: "modern athletic with environmental consciousness"
+  logo_required: true
+  sustainability_messaging: "prominent but not preachy"
+
+cultural_requirements:
+  - "Strong emphasis on environmental responsibility"
+  - "Quality craftsmanship over mass production"
+  - "Sophisticated rather than flashy messaging"
+  - "Multi-language considerations (English, German, French, Italian)"
+
+legal_compliance:
+  - "EU sustainability claims regulations"
+  - "GDPR compliance for data collection"
+  - "Environmental advertising standards"
+  - "Textile labeling requirements"
+
+campaign_objectives:
+  - "Position Nike as sustainability leader in Europe"
+  - "Drive 30% sales lift for sustainable product lines"
+  - "Increase brand preference among eco-conscious consumers"
+
+success_metrics:
+  - "40% increase in sustainable product awareness"
+  - "25% lift in purchase intent"
+  - "95%+ cultural appropriateness across EU markets"
+
+regional_adaptations:
+  germany: "Emphasize precision engineering and quality"
+  france: "Focus on style and environmental elegance"
+  uk: "Highlight performance innovation"
+  italy: "Blend performance with fashion-forward design"

@@ -1,0 +1,7 @@
+campaign_name: "Test Campaign"
+products:
+  - name: "Coca Cola"
+  - name: "Diet Coke"
+target_region: "North America"
+target_audience: "Young professionals"
+campaign_message: "Refresh Your Day"

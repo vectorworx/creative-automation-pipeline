@@ -1,0 +1,108 @@
+# Creative Automation Pipeline Configuration
+
+# AI Providers (Multi-Provider Fallback Chain)
+ai_providers:
+  openai:
+    api_key: "${OPENAI_API_KEY}"
+    model: "dall-e-3"
+    enabled: true
+  stability:
+    api_key: "${STABILITY_API_KEY}"
+    enabled: true
+  fallback_assets:
+    enabled: true
+    directory: "assets/fallback_assets"
+
+# Output Configurations
+aspect_ratios:
+  square:
+    width: 1080
+    height: 1080
+    ratio: "1:1"
+    platforms: ["Instagram Feed", "Facebook Post", "LinkedIn Post"]
+  story:
+    width: 1080
+    height: 1920
+    ratio: "9:16"
+    platforms: ["Instagram Stories", "Facebook Stories", "TikTok", "Snapchat"]
+  landscape:
+    width: 1920
+    height: 1080
+    ratio: "16:9"
+    platforms: ["Facebook Cover", "YouTube Thumbnail", "LinkedIn Banner"]
+
+# Brand Compliance Configuration
+brand_compliance:
+  minimum_score: 85
+  auto_approve_threshold: 95
+  cultural_screening_enabled: true
+  legal_content_check: true
+  logo_placement_validation: true
+  color_palette_enforcement: true
+
+# Cultural Adaptation Settings
+cultural_adaptation:
+  regions:
+    japan:
+      name: "Japan"
+      language: "ja"
+      cultural_keywords:
+        [
+          "minimalist",
+          "clean",
+          "respectful",
+          "negative space",
+          "subtle",
+          "harmony",
+        ]
+      font_family: "noto_sans_cjk"
+      text_direction: "ltr"
+
+    europe:
+      name: "Europe"
+      language: "en"
+      cultural_keywords:
+        [
+          "sophisticated",
+          "environmental",
+          "premium",
+          "sustainable",
+          "craftsmanship",
+        ]
+      font_family: "arial_bold"
+      text_direction: "ltr"
+
+    middle_east:
+      name: "Middle East"
+      language: "ar"
+      cultural_keywords:
+        ["luxury", "premium", "elegant", "culturally appropriate", "respectful"]
+      font_family: "noto_sans_arabic"
+      text_direction: "rtl"
+
+    north_america:
+      name: "North America"
+      language: "en"
+      cultural_keywords:
+        ["bold", "energetic", "lifestyle", "aspirational", "innovative"]
+      font_family: "arial_bold"
+      text_direction: "ltr"
+
+    india:
+      name: "India"
+      language: "hi"
+      cultural_keywords:
+        ["vibrant", "family", "celebration", "traditional", "colorful"]
+      font_family: "noto_sans"
+      text_direction: "ltr"
+
+# Directories
+directories:
+  input: "assets/input"
+  output: "assets/output"
+  cache: "assets/cache"
+  fallback: "assets/fallback_assets"
+
+# Demo settings
+demo:
+  offline_mode: false

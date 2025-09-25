@@ -1,0 +1,387 @@
+{
+  "correlation_id": "cam_95862055",
+  "campaign_name": "Test Campaign",
+  "processing_status": "completed_successfully",
+  "start_time": "2025-09-25 14:19:50",
+  "assets": {
+    "Coca Cola": {
+      "square": {
+        "path": "assets\\output\\Coca_Cola_square_final.png",
+        "status": "success",
+        "aspect_ratio": "1:1"
+      },
+      "story": {
+        "path": "assets\\output\\Coca_Cola_story_final.png",
+        "status": "success",
+        "aspect_ratio": "9:16"
+      },
+      "landscape": {
+        "path": "assets\\output\\Coca_Cola_landscape_final.png",
+        "status": "success",
+        "aspect_ratio": "16:9"
+      }
+    },
+    "Diet Coke": {
+      "square": {
+        "path": "assets\\output\\Diet_Coke_square_final.png",
+        "status": "success",
+        "aspect_ratio": "1:1"
+      },
+      "story": {
+        "path": "assets\\output\\Diet_Coke_story_final.png",
+        "status": "success",
+        "aspect_ratio": "9:16"
+      },
+      "landscape": {
+        "path": "assets\\output\\Diet_Coke_landscape_final.png",
+        "status": "success",
+        "aspect_ratio": "16:9"
+      }
+    }
+  },
+  "compliance_results": {
+    "Coca Cola": {
+      "square": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches square"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      },
+      "story": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches story"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      },
+      "landscape": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches landscape"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Coca Cola' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Coca Cola' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      }
+    },
+    "Diet Coke": {
+      "square": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches square"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Diet Coke' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Diet Coke' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      },
+      "story": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches story"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Diet Coke' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Diet Coke' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      },
+      "landscape": {
+        "overall_score": 89.8,
+        "passed": true,
+        "checks": {
+          "visual_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "Resolution check passed",
+              "Color alignment acceptable",
+              "Aspect ratio matches landscape"
+            ]
+          },
+          "content_compliance": {
+            "score": 85,
+            "issues": [],
+            "recommendations": [
+              "Consider mentioning 'Diet Coke' in campaign message"
+            ],
+            "checks_performed": [
+              "Content screening passed",
+              "Message length appropriate"
+            ]
+          },
+          "cultural_compliance": {
+            "score": 95,
+            "issues": [],
+            "recommendations": [
+              "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+            ],
+            "checks_performed": [
+              "Cultural sensitivity screening passed"
+            ]
+          },
+          "technical_compliance": {
+            "score": 100,
+            "issues": [],
+            "recommendations": [],
+            "checks_performed": [
+              "File size appropriate",
+              "Image format acceptable",
+              "Color mode appropriate"
+            ]
+          }
+        },
+        "issues": [],
+        "recommendations": [
+          "Consider mentioning 'Diet Coke' in campaign message",
+          "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+        ]
+      }
+    }
+  },
+  "summary": {
+    "total_assets_requested": 6,
+    "assets_generated": 6,
+    "assets_failed": 0,
+    "compliance_passed": 6,
+    "compliance_failed": 0,
+    "overall_compliance_score": 89.8
+  },
+  "recommendations": [
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle",
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle",
+    "Consider mentioning 'Coca Cola' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle",
+    "Consider mentioning 'Diet Coke' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle",
+    "Consider mentioning 'Diet Coke' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle",
+    "Consider mentioning 'Diet Coke' in campaign message",
+    "Consider incorporating north_america cultural elements: bold, energetic, lifestyle"
+  ],
+  "processing_time": 106.07,
+  "strategic_recommendations": [
+    "Consider A/B testing different creative variations for optimal performance."
+  ],
+  "end_time": "2025-09-25 14:21:36"
+}
