@@ -1,0 +1,10 @@
+openai>=1.40.0
+Pillow>=10.4.0
+PyYAML>=6.0.2
+python-dotenv>=1.0.1
+loguru>=0.7.2
+redis>=5.0.7
+tenacity>=8.5.0
+pydantic>=2.8.2
+# Optional fallback provider:
+# stability-sdk
